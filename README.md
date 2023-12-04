@@ -17,7 +17,7 @@ page header.
 You will write a JavaScript file fancifymytext .js that will manipulate the text.
 
 Download the HTML file: **fancifymytext.html
-(https://csus.instructure.com/courses/112519/files/18417522?wrap=1)**
+(https://raw.githubusercontent.com/chessset5/CSC193A-Homework5/main/Original%20fancifymytext.html/fancifymytext.html)**
 
 The first task is to expand fancifymytext .html by adding UI controls. Add HTML code for the following:
 
