@@ -1,3 +1,5 @@
+/* Tried to use css instead of the js file... didn't work
+reverting back to just using js */
 .fancyShmancy {
   font-weight: bold;
   text-decoration: underline;
